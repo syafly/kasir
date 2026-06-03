@@ -140,7 +140,7 @@ Aplikasi kasir modern dan lengkap dengan fitur manajemen penjualan, laporan bula
 ## 🚀 Cara Menggunakan
 
 ### Setup Awal
-1. Aplikasi sudah running di: https://sales-tracker-898.preview.emergentagent.com
+1. Aplikasi sudah running di: https://xisy-kasir.vercel.app
 2. Database MongoDB sudah terkonfigurasi otomatis
 3. Tidak perlu instalasi tambahan
 
