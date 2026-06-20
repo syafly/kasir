@@ -253,3 +253,8 @@ Aplikasi ini siap digunakan untuk bisnis retail, toko, cafe, atau usaha sejenis 
 **Dibuat dengan menggunakan Next.js & MongoDB**
 
 Aplikasi Kasir Pro - Sistem Manajemen Penjualan Modern
+
+## License
+
+MIT License
+
